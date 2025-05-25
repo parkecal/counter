@@ -1,5 +1,7 @@
 # co5324d4cbdde2b99e48980c2
 
+Hosted at: https://fanciful-raindrop-d734f2.netlify.app/
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
